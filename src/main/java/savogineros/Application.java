@@ -224,7 +224,7 @@ public class Application {
         }
 
         // Mi sono anche costruito una funzione per cancellare eventualmente il documento!
-        // è statica! Quindi alla mia classe Application basta l'invocazione della funzione!
+        // È statica! Quindi alla mia classe Application basta l'invocazione della funzione!
 
         //deleteFile();
 
